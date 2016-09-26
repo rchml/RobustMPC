@@ -1,0 +1,74 @@
+
+>> LQ_passiveMPC_comparison
+
+BETA: Error code: NUMERIC
+Iteration: 129
+
+Failure count: 30
+
+BETA: Error code: INFEASIBLE
+Iteration: 75
+
+BETA: Error code: INFEASIBLE
+Iteration: 91
+
+Failure count: 17
+
+BETA: Error code: INFEASIBLE
+Iteration: 62
+
+BETA: Error code: INFEASIBLE
+Iteration: 90
+
+Failure count: 12
+
+BETA: Error code: INFEASIBLE
+Iteration: 91
+
+Failure count: 12
+
+BETA: Error code: INFEASIBLE
+Iteration: 75
+
+Failure count: 10
+
+BETA: Error code: INFEASIBLE
+Iteration: 101
+
+Failure count: 13
+
+BETA: Error code: INFEASIBLE
+Iteration: 85
+
+Failure count: 14
+
+Failure count: 1
+
+BETA: Error code: INFEASIBLE
+Iteration: 89
+
+Failure count: 14
+
+BETA: Error code: INFEASIBLE
+Iteration: 79
+
+Failure count: 15
+
+BETA: Error code: NUMERIC
+Iteration: 88
+
+Failure count: 20
+
+BETA: Error code: INFEASIBLE
+Iteration: 80
+
+Failure count: 12
+
+BETA: Error code: INFEASIBLE
+Iteration: 78
+
+Failure count: 14
+
+Failure count: 1
+
+Failure count: 1
